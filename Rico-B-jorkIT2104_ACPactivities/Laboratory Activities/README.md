@@ -156,4 +156,5 @@
 A heartfelt thank you to <b>Ma’am Fatima</b> for her unwavering support, guidance, and encouragement throughout the course. Your passion for teaching and dedication to your students is truly inspiring! 🙏
 </p>
 
-<iframe src="https://giphy.com/embed/lptOHczNAFD1G79Ofq" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twiceofficial-kpop-twice-merry-happy-lptOHczNAFD1G79Ofq">via GIPHY</a></p>
+![maloi](https://github.com/user-attachments/assets/a78a1102-2cf7-431d-9519-584465942e25)
+
