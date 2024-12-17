@@ -106,7 +106,7 @@
       <li>🎯 <b>Learning Objective:</b> Practice loops, modular arithmetic, and logical checks.</li>
       <li>
         🌟 <b>Instructions for Reviewers:</b> 
-        Do you know what makes a number "perfect"? Enter numbers like 6, 28, or 12 into the program and observe the results. Try defining a perfect number in your own words and see how well the program aligns with your understanding!
+        Do you know what makes a number "perfect"? Enter numbers like 6, 28, or 12 into the program and observe the results. Try defining a perfect number in your own words and see how well the program aligns with your understanding.
       </li>
     </ul>
   </li>
@@ -134,7 +134,7 @@
       <li>🎯 <b>Learning Objective:</b> Learn how arrays work, including indexing and bounds checking.</li>
       <li>
         🌟 <b>Instructions for Reviewers:</b> 
-        Imagine you’re organizing a list of numbers. Enter some values and see if you can retrieve them by their index. What happens if you try to access an index that doesn’t exist? Experiment and think about how you’d handle invalid inputs as a programmer.
+        Imagine you’re organizing a list of numbers. Enter some values and see if you can retrieve them by their index. What happens if you try to access an index that doesn’t exist? 
       </li>
     </ul>
   </li>
