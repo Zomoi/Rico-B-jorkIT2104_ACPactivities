@@ -2,7 +2,7 @@
 <img src="https://github.com/Zomoi/Rico-B-jorkIT2104_ACPactivities/blob/main/Rico-B-jorkIT2104_ACPactivities/Laboratory%20Activities/activity%20photo.png" width="100">
 </p>
 
-<h1 align="center" tabindex="-1" class="heading element" dir="auto">Lab Activities Overview 🚀</h1>
+<h1 align="center" tabindex="-1" class="heading element" dir="auto">Lab Activities Overview </h1>
 
 <p align="center" dir="auto">
 <em>
@@ -13,8 +13,8 @@
 <p align="center" dir="auto">
   <b>IT-2104</b>
   <br>
-  <a href="https://github.com/YourUsername">
-  Your Name
+  <a href="https://github.com/Zomoi">
+  Rico, B-jork M.
   </a>
 </p>
 <hr></hr>
@@ -39,7 +39,7 @@
       <li>🎯 <b>Learning Objective:</b> Learn how to take user inputs, work with strings, and display output in a formatted way.</li>
       <li>
         🌟 <b>Instructions for Reviewers:</b> 
-        Imagine your favorite song. Can you input all its details accurately into the program? Think about edge cases: What happens if you enter a non-numeric year or leave the title blank? Try testing it to see how the program responds!
+        Imagine your favorite song. Can you input all its details accurately into the program? Think about edge cases: What happens if you enter a non-numeric year or leave the title blank? Try testing it to see how the program responds.
       </li>
     </ul>
   </li>
@@ -50,7 +50,7 @@
       <li>🎯 <b>Learning Objective:</b> Understand ASCII values and how to compare characters programmatically.</li>
       <li>
         🌟 <b>Instructions for Reviewers:</b> 
-        Have fun experimenting! Type two characters (letters, digits, or even symbols). Before pressing enter, guess which character has the higher ASCII value. Does the program confirm your guess? Try mixing lowercase and uppercase letters to see what happens.
+        Type two characters (letters, digits, or even symbols). Before pressing enter, guess which character has the higher ASCII value. Does the program confirm your guess? Try mixing lowercase and uppercase letters to see what happens.
       </li>
     </ul>
   </li>
@@ -67,7 +67,7 @@
       <li>🎯 <b>Learning Objective:</b> Practice using conditionals, working with strings, and building logical solutions.</li>
       <li>
         🌟 <b>Instructions for Reviewers:</b> 
-        Pick a number—any number! Can you tell if it’s a palindrome just by looking at it? Enter it into the program and see if you were right. Now think: What makes a number a palindrome? Use this as a chance to solidify your understanding of the logic.
+        Pick a number, any number. Can you tell if it’s a palindrome just by looking at it? Enter it into the program and see if you were right. Now think: What makes a number a palindrome? Use this as a chance to solidify your understanding of the logic.
       </li>
     </ul>
   </li>
@@ -95,7 +95,7 @@
       <li>🎯 <b>Learning Objective:</b> Learn to work with dictionaries, loops, and conditional statements.</li>
       <li>
         🌟 <b>Instructions for Reviewers:</b> 
-        Do you know your Roman numerals? Type one into the program (e.g., "X", "IV", "MCMXCIV") and check its value. Then, reverse-engineer the logic: Why does "IX" equal 9, but "XI" equals 11? Play around and try to break the program—what happens if you input an invalid numeral like "IIII"?
+        Do you know your Roman numerals? Type one into the program (e.g., "X", "IV", "MCMXCIV") and check its value. Then, reverse-engineer the logic: Why does "IX" equal 9, but "XI" equals 11? Play around and try to break the program like what happens if you input an invalid numeral like "IIII"?
       </li>
     </ul>
   </li>
@@ -155,3 +155,5 @@
 <p align="auto">
 A heartfelt thank you to <b>Ma’am Fatima</b> for her unwavering support, guidance, and encouragement throughout the course. Your passion for teaching and dedication to your students is truly inspiring! 🙏
 </p>
+
+https://tenor.com/view/tzuyu-tzuyu-reaction-kpop-girl-reaction-kpop-reaction-scaring-gif-13488766872915187818
