@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-<img src="https://github.com/YourUsername/YourRepo/blob/main/labs_overview.png" width="100">
+<img src="https://github.com/Zomoi/Rico-B-jorkIT2104_ACPactivities/blob/main/Rico-B-jorkIT2104_ACPactivities/Laboratory%20Activities/activity%20photo.png" width="100">
 </p>
 
 <h1 align="center" tabindex="-1" class="heading element" dir="auto">Lab Activities Overview 🚀</h1>
