@@ -156,4 +156,4 @@
 A heartfelt thank you to <b>Ma’am Fatima</b> for her unwavering support, guidance, and encouragement throughout the course. Your passion for teaching and dedication to your students is truly inspiring! 🙏
 </p>
 
-https://tenor.com/view/tzuyu-tzuyu-reaction-kpop-girl-reaction-kpop-reaction-scaring-gif-13488766872915187818
+<iframe src="https://giphy.com/embed/lptOHczNAFD1G79Ofq" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twiceofficial-kpop-twice-merry-happy-lptOHczNAFD1G79Ofq">via GIPHY</a></p>
